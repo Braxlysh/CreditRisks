@@ -1,0 +1,5 @@
+.venv
+train_data
+train_data_full.parquet
+train_target.csv
+models
