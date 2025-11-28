@@ -1,7 +1,7 @@
 venv
-train_data
+train_data/*.pq
 train_data_full.parquet
 train_target.csv
-prepared_data
+prepared_data/*.parquet
 catboost_info
 __pycache__/
