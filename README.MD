@@ -113,6 +113,16 @@ curl -X POST http://127.0.0.1:8000/predict/json ^
      -d "{\"id\": 100500, \"pre_loans_credit_limit\": 250000, ...}"
 ```
 
+### Постман-коллекция (скриншоты)
+
+Для быстрого знакомства с API добавлены скриншоты из Postman (папка `img/`):
+
+![GET / статус](img/get_status.png)
+
+![POST /predict/json](img/post_json.png)
+
+![POST /predict/file](img/post_file.png)
+
 ---
 
 ## Использование готовых данных
