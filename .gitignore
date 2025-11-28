@@ -4,3 +4,4 @@ train_data_full.parquet
 train_target.csv
 prepared_data
 catboost_info
+__pycache__/
